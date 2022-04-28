@@ -1,2 +1,2 @@
 # PV080_tasks
-smth
+tasks for seminar 11
